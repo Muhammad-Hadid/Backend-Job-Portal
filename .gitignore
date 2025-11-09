@@ -1,5 +1,6 @@
-# Environment Variables (keep .env in git for deployment)
-# Note: Make sure to change sensitive values before deploying
+# Environment Variables
+.env
+*.env
 .env.local
 .env.development
 .env.production
